@@ -61,14 +61,6 @@ It provides actionable insights to support data-driven decision-making across bu
 - Delivered actionable business insights
 - Built scalable and dynamic reporting solutions
 
----
-
-## 📷 Dashboard Preview
-*(Add screenshots of your dashboard here)*
-
----
-
-## 📌 Conclusion
-This project demonstrates strong capabilities in **data analysis, business intelligence, and financial reporting**, making it highly relevant for Data Analyst roles.
+ 
 
 ---
